@@ -9,4 +9,4 @@ def fizzbuzz(int)
     "Buzz"
   end
 end
-© 2020 GitHub, Inc.
+
